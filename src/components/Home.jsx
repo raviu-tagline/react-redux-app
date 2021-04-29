@@ -3,7 +3,9 @@ import React from "react";
 export default function Home() {
   return (
     <>
-      <h1>Home Component</h1>
+      <h1>
+        Welcome to the <strong>React Redux App</strong>
+      </h1>
     </>
   );
 }
